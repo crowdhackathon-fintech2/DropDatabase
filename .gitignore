@@ -1,11 +1,11 @@
 packages/*
 PPFM/GettingStarted.Xamarin
 PPFM/obj/*
-.vs/*
+.vs/PPFM/v15/Server/sqlite3/db.lock
 PPFM/packages*
-PPFM/bin/*
+
 TransactionBuilder/packages*
-TransactionBuilder/bin/*
+
 
 
 	
