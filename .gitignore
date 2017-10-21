@@ -1,3 +1,11 @@
+packages/*
 PPFM/GettingStarted.Xamarin
 PPFM/obj/*
 .vs/*
+PPFM/packages*
+PPFM/bin/*
+TransactionBuilder/packages*
+TransactionBuilder/bin/*
+
+
+	
