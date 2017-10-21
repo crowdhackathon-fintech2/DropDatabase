@@ -10,3 +10,15 @@ c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\TransactionBuild
 c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.exe
 c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\Newtonsoft.Json.dll
 c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\bin\Debug\TransactionBuilder.exe
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\bin\Debug\TransactionBuilder.pdb
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\bin\Debug\TransactionBuilder.xml
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.vbprojResolveAssemblyReference.cache
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.Resources.resources
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.vbproj.GenerateResource.Cache
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.vbproj.CoreCompileInputs.cache
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.exe
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.xml
+C:\Users\Mosxa\Desktop\DropDatabase\TransactionBuilder\obj\Debug\TransactionBuilder.pdb
