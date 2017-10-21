@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPFM", "PPFM\PPFM.csproj", "{DC478E36-DD25-4AED-898B-3DA774ECBEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC478E36-DD25-4AED-898B-3DA774ECBEFB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244CCDFE-050C-4BD3-A61B-16C151A42970}
+	EndGlobalSection
+EndGlobal
