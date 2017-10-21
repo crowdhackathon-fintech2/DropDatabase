@@ -4,5 +4,6 @@
     <SelectedDevice>Motorola Moto G %284%29</SelectedDevice>
     <DefaultDevice>Android_Accelerated_Nougat</DefaultDevice>
     <AndroidDesignerPreferredDevice>Nexus 4</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredTheme>Theme.Custom</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
