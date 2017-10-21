@@ -29,6 +29,12 @@ Public Class SandboxBuilder
         Return Nothing
     End Function
 
+
+    Public Function CreateTransaction(description As String, day As Integer, month As Integer, year As Integer, amount As Decimal) As Transaction
+        Dim executionDate As String = CStr(year) + "-" + CStr(month) + "-" + CStr(day)
+        Return CreateTransaction(description, executionDate, amount)
+    End Function
+
     ' executionDate in form: '2017-10-21'
     Public Function CreateTransaction(description As String, executionDate As String, amount As Decimal) As Transaction
         Dim Transaction = JsonConvert.DeserializeObject(Of Transaction)(TransactionTemplate)
