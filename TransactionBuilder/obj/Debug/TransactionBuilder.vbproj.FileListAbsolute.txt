@@ -1,0 +1,12 @@
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\TransactionBuilder.pdb
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\TransactionBuilder.xml
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.vbprojResolveAssemblyReference.cache
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.Resources.resources
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.vbproj.GenerateResource.Cache
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.vbproj.CoreCompileInputs.cache
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.xml
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.pdb
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\TransactionBuilder.exe
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\obj\Debug\TransactionBuilder.exe
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Orestis\source\repos\PPFM\TransactionBuilder\bin\Debug\Newtonsoft.Json.xml

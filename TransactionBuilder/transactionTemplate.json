@@ -1,0 +1,101 @@
+﻿{
+  "id": "6266C063-178C-410B-90D6-7C5A743EE6AE",
+  "this_account": {
+    "id": "ee902a2d-4424-4038-976b-51d5810c6f64",
+    "holders": [
+      {
+        "name": "User1",
+        "is_alias": false
+      }
+    ],
+    "number": "97226400154",
+    "kind": "Current",
+    "IBAN": "GR0901109720000097226400154",
+    "swift_bic": "ETHNGRAA",
+    "bank": {
+      "name": "NATIONAL BANK OF GREECE",
+      "national_identifier": "ETHNGRAA"
+    }
+  },
+  "other_account": {
+    "id": "840fc2d8-d297-45ba-9653-0c95d2556bd5",
+    "holders": [
+      {
+        "name": "User2",
+        "is_alias": false
+      }
+    ],
+    "number": "10348012377",
+    "kind": "Savings",
+    "IBAN": "GR4501101030000010348012377",
+    "swift_bic": "ETHNGRAA",
+    "bank": {
+      "name": "NATIONAL BANK OF GREECE",
+      "national_identifier": "ETHNGRAA"
+    }
+  },
+  "details": {
+    "type": "Account Transfer",
+    "description": "sandbox",
+    "posted": "2017-10-21T10:08:54.753Z",
+    "completed": "2017-10-21T10:08:54.753Z",
+    "new_balance": {
+      "currency": "EUR",
+      "amount": ""
+    },
+    "value": {
+      "currency": "EUR",
+      "amount": "-20"
+    }
+  },
+  "metadata": {
+    "narrative": "narrative",
+    "comments": [
+      {
+        "id": "1b8c6d4b-3332-46e1-b50d-c1c28c7d69b7",
+        "value": "sandboxComment",
+        "date": "2017-10-21T10:08:54.753Z",
+        "user": {
+          "id": "9d7f2ef4-7262-4429-a487-7979e4a76447",
+          "provider": "NBG",
+          "display_name": "User1"
+        }
+      }
+    ],
+    "tags": [
+      {
+        "id": "51656ca4-3801-40ab-9842-3ab0c1aa000a",
+        "value": "1",
+        "date": "2017-10-21T10:08:54.754Z",
+        "user": {
+          "id": "9d7f2ef4-7262-4429-a487-7979e4a76447",
+          "provider": "NBG",
+          "display_name": "User1"
+        }
+      }
+    ],
+    "images": [
+      {
+        "id": "2a5baefe-29d4-4e40-aaf4-86bad6731ff6",
+        "label": "label",
+        "URL": "https://www.nbg.gr/",
+        "date": "2017-10-21T10:08:54.754Z",
+        "user": {
+          "id": "9d7f2ef4-7262-4429-a487-7979e4a76447",
+          "provider": "NBG",
+          "display_name": "User1"
+        }
+      }
+    ],
+    "where": {
+      "latitude": 37.9838,
+      "longitude": 23.4587,
+      "date": "2017-10-21T10:08:54.754Z",
+      "user": {
+        "id": "9d7f2ef4-7262-4429-a487-7979e4a76447",
+        "provider": "NBG",
+        "display_name": "User1"
+      }
+    }
+  }
+}

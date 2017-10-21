@@ -1,5 +1,4 @@
-PPFM/GettingStarted.Xamarin
-PPFM/obj/*
+
 .vs/*
 
 ## Ignore Visual Studio temporary files, build results, and
@@ -194,4 +193,11 @@ UpgradeLog*.htm
 *.bim_*.settings
 
 # Microsoft Fakes
+<<<<<<< HEAD
 FakesAssemblies/
+=======
+FakesAssemblies/
+
+
+	
+>>>>>>> 1610c2adad5781bacdce93f84e83d934f58271f6
